@@ -1,5 +1,6 @@
 #lang racket
 
+
 ;A
 (provide ins_beg)
 (define (ins_beg el list)
