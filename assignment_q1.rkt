@@ -1,6 +1,6 @@
 #lang racket
 
-; A cons pair of two numbers
+; A cons pair of two numbers.
 (display "A cons pair of two numbers: ")
 (cons 1 2)
 
